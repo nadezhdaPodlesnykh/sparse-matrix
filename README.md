@@ -1,4 +1,4 @@
 # sparse-matrix
 Python project Sparse Matrix
 
-This application can mulpity and add sparse matrixis, multiply number on sparse matrix and multiply sparse matrix on vector.
+This application can add and multiply sparse matrices, multiply a number by a sparse matrix, and multiply a sparse matrix by a vector.
